@@ -1,0 +1,29 @@
+GOAL:-
+Goal of the game is to move character in the maze to reach the spaceship. 
+
+
+CONTROLS:-
+
+Keyboard Controls: Used for charcter movement
+Right - Move Right
+Left - Move Left
+Up - Move Up
+Down - Move Down
+
+Mouse Control: Used to click on following buttons on screen
+Save - After typing in your name in name text field, press this button in order to enable play button. 
+Play - Start game
+Help - Opens this file
+Leaderboard - Open file with top 10 list of people soreted by higest score
+Quit - Close and Exit game
+
+
+SOFTWARE/HARDWARE REQUIREMENTS:-
+
+Software Requirements
+To run this game, you must have Java downloaded and enabled
+
+Hardware Requirements
+Requires same system requirments to download Java. Please use the following 
+link to check the system requirments. 
+http://java.com/en/download/help/sysreq.xml
